@@ -49,8 +49,8 @@ O mínimo de código deve ser produzido para resolver um problema.
 A seguir temos um exemplo do que estamos tentando dizer:
 
 ```typescript
-// bad choice
-function isValidNumber(value: number) => {
+// Bad
+function isPositive(value: number): boolean {
   if (value > 0) {
     return true;
   } else {
@@ -58,8 +58,8 @@ function isValidNumber(value: number) => {
   }
 }
 
-// very good choice
-function isValidNumber(value: number) => {
+// Good
+function isPositive(value: number): boolean {
   return (value > 0);
 }
 ```
