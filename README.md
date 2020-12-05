@@ -17,8 +17,8 @@ A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tec
 
 # O que precisamos
 
-Queremos em nosso time um profissional que teve contatao com as técnologias acima descritas.
-Porém sabemos que bons profissionais que possuem experiência com [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rápidamente.
+Queremos em nosso time um profissional que teve contatao com as tecnologias acima descritas.
+Entretanto sabemos que bons profissionais com experiência com [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
 
 ## Requisitos
 
@@ -36,9 +36,9 @@ Por isso utilizar algumas das ferramentas acima é necessário.
 
 ### Testes primeiro
 
-A codificação deve começar pelos testes, e tentar cobrir todo o código produzido com testes
+A codificação deve começar pelos testes, e tentar cobrir todo o código produzido.
 
-### Código de qualidade sem duplicidade
+### Código de qualidade
 
 Esse projeto possuí o [ESLint](https://eslint.org/) habilitado para forçar a padronização da codificação, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
 
@@ -63,9 +63,10 @@ function isValidNumber(value: number) => {
 
 # O que ofercemos
 
-- Liberdade em horários com responsabilidade nas entregas!
-- Temos em nosso DNA gestão colaborativa, objetividade e meritocracia!
-- Salário inicial de R$ 2.800,00 após experiência R$ 3.200,00
+- Liberdade em horários com responsabilidade nas entregas.
+- Temos em nosso DNA gestão colaborativa, objetividade e meritocracia.
+- Trabalho home office
+- Salário inicial de **R$ 2.800,00** após experiência R$ **3.200,00**
 - Início a partir de `01/02/2021`
 
 # Ficou interessado?
