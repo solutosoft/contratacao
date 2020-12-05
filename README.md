@@ -17,20 +17,21 @@ A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tec
 
 # O que precisamos
 
-O sonho é encontrar um profissional que ja tenha trabalhado com tudo o que está descrito acima.
-Porém sabemos que bons profissionais que ja tem experiência com o [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir o conhecimento de que precisamos rápidamente.
+Queremos em nosso time um profissional que teve contatao com as técnologias acima descritas.
+Porém sabemos que bons profissionais que possuem experiência com [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rápidamente.
 
 ## Requisitos
 
 ### Busca pelo conhecimento
+Pró atividade nos projetos! Traga a solução!
+Se está tentando algo novo, esgote as possibilidades antes de solicitar ajuda.
 
-Se está tentando algo novo esgote as possibilidades antes de solicitar ajuda.
-
-Isso não significa que não iremos ajudar, acontece que sem esforço não há aquisição de conhecimento.
+Isso não significa que você está sozinho, quanto realmente não for possível, estaremos junto para te ajudar a resolver o problema.
+Lembre-se: sem esforço não há aquisição de conhecimento.
 
 ### Conta no [github](https://github.com/), [gitlab](https://gitlab.com/) ou [bitbucket](https://bitbucket.org/)
 
-Iremos avalisar seu conhecimento pelo código que você produziu até o momento.
+Iremos avaliar seu conhecimento pelo código que você produziu até o momento.
 Por isso utilizar algumas das ferramentas acima é necessário.
 
 ### Testes primeiro
@@ -39,12 +40,10 @@ A codificação deve começar pelos testes, e tentar cobrir todo o código produ
 
 ### Código de qualidade sem duplicidade
 
-Esse projeto prossui todos o [ESLint](https://eslint.org/) habilitado para evitar
-forçar a padronização da codificação, porém além de um código que respeite essa padronização
-é necessário ser **LIMPO** e **EFICIÊNTE**.
+Esse projeto possuí o [ESLint](https://eslint.org/) habilitado para forçar a padronização da codificação, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
 
 O mínimo de código fonte deve ser produzido para resolver um problema.
-Exemplo de que estamos tentando dizer://
+A seguir temos um exemplo do que estamos tentando dizer:
 
 ```typescript
 // bad choice
@@ -64,17 +63,15 @@ function isValidNumber(value: number) => {
 
 # O que ofercemos
 
-Somos objetivos e vamos direto ao ponto
-
-- Não cobramos horários e sim **entregas**
-- Salário inicial de **R$ 2.800,00** após experiência **R$ 3.200,00**
-- Valorizamos o seu trabalho, se você for bom, tenha certeza o seu trabalho será recompensado financeiramente.
+- Liberdade em horários com responsabilidade nas entregas!
+- Temos em nosso DNA gestão colaborativa, objetividade e meritocracia!
+- Salário inicial de R$ 2.800,00 após experiência R$ 3.200,00
 - Início a partir de `01/02/2021`
 
 # Ficou interessado?
 
 Você pode enviar um email para [sac@slto.com.br](mailto:sac@slto.com.br)
-ouu curtir :thumbsup: a tarefa #1 que iremos avaliar seus códigos e entraremos em contato.
+ouu curtir (:thumbsup:)Re a tarefa #1 que iremos avaliar seus códigos e entraremos em contato.
 
 
 
