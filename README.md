@@ -23,10 +23,11 @@ Entretanto sabemos que bons profissionais com experiência com [JavaScript](http
 ## Requisitos
 
 ### Busca pelo conhecimento
-Pró atividade nos projetos! Traga a solução!
+Pró atividade nos projetos! 
+Traga a solução!
 Se está tentando algo novo, esgote as possibilidades antes de solicitar ajuda.
 
-Isso não significa que você está sozinho, quanto realmente não for possível, estaremos junto para te ajudar a resolver o problema.
+Isso não significa que você está sozinho, quando realmente não for possível, estaremos junto para te ajudar a resolver o problema.
 Lembre-se: sem esforço não há aquisição de conhecimento.
 
 ### Conta no [github](https://github.com/), [gitlab](https://gitlab.com/) ou [bitbucket](https://bitbucket.org/)
