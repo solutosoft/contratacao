@@ -64,7 +64,7 @@ function isValidNumber(value: number) => {
 }
 ```
 
-# O que ofercemos
+# O que oferecemos
 
 - Liberdade em horários com responsabilidade nas entregas.
 - Temos em nosso DNA gestão colaborativa, objetividade e meritocracia.
