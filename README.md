@@ -28,6 +28,7 @@ Traga a solução!
 Se está tentando algo novo, esgote as possibilidades antes de solicitar ajuda.
 
 Isso não significa que você está sozinho, quando realmente não for possível, estaremos junto para te ajudar a resolver o problema.
+
 Lembre-se: sem esforço não há aquisição de conhecimento.
 
 ### Conta no [github](https://github.com/), [gitlab](https://gitlab.com/) ou [bitbucket](https://bitbucket.org/)
@@ -44,6 +45,7 @@ A codificação deve começar pelos testes, e tentar cobrir todo o código produ
 O [ESLint](https://eslint.org/) está habilitado para forçar a padronização, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
 
 O mínimo de código deve ser produzido para resolver um problema.
+
 A seguir temos um exemplo do que estamos tentando dizer:
 
 ```typescript
@@ -66,8 +68,7 @@ function isValidNumber(value: number) => {
 
 - Liberdade em horários com responsabilidade nas entregas.
 - Temos em nosso DNA gestão colaborativa, objetividade e meritocracia.
-- Trabalho home office
-- Salário inicial de **R$ 2.800,00** após experiência R$ **3.200,00**
+- Salário inicial de **R$ 2.800,00** após experiência **R$ 3.200,00**
 - Início a partir de `01/02/2021`
 
 # Ficou interessado?
