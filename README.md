@@ -17,7 +17,7 @@ A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tec
 
 # O que precisamos
 
-Queremos em nosso time um profissional que teve contatao com as tecnologias acima descritas.
+Queremos em nosso time um profissional que teve contato com as tecnologias acima descritas.
 Entretanto sabemos que bons profissionais com experiência com [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
 
 ## Requisitos
@@ -41,9 +41,9 @@ A codificação deve começar pelos testes, e tentar cobrir todo o código produ
 
 ### Código de qualidade
 
-Esse projeto possuí o [ESLint](https://eslint.org/) habilitado para forçar a padronização da codificação, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
+O [ESLint](https://eslint.org/) está habilitado para forçar a padronização, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
 
-O mínimo de código fonte deve ser produzido para resolver um problema.
+O mínimo de código deve ser produzido para resolver um problema.
 A seguir temos um exemplo do que estamos tentando dizer:
 
 ```typescript
