@@ -71,7 +71,7 @@ function isValidNumber(value: number) => {
 # Ficou interessado?
 
 Você pode enviar um email para [sac@slto.com.br](mailto:sac@slto.com.br)
-ouu curtir (:thumbsup:)Re a tarefa #1 que iremos avaliar seus códigos e entraremos em contato.
+ouu curtir (:thumbsup:) a tarefa [#1](https://github.com/solutosoft/contratacao/issues/1) que iremos avaliar seus códigos e entraremos em contato.
 
 
 
