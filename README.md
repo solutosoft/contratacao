@@ -66,7 +66,7 @@ function isPositive(value: number): boolean {
 # O que oferecemos
 
 - Liberdade em horários com responsabilidade nas entregas.
-- Temos em nosso DNA gestão colaborativa, objetividade e meritocracia.
+- Gestão colaborativa, objetividade e meritocracia.
 - Salário inicial de **R$ 2.800,00** após experiência **R$ 3.200,00**
 - Início a partir de `01/02/2021`
 
