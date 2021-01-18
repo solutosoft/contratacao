@@ -17,18 +17,17 @@ A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tec
 
 # O que precisamos
 
-Queremos em nosso time um profissional que teve contato com as tecnologias acima descritas.
-Entretanto sabemos que bons profissionais com experiência com [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
+Buscamos um profissional que teve contato com as tecnologias acima descritas.
+Entretanto sabemos que profissionais que utilizam [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
 
 ## Requisitos
 
 ### Busca pelo conhecimento
-Pró atividade nos projetos! 
-Traga a solução!
-Se está tentando algo novo, esgote as possibilidades antes de solicitar ajuda.
+- Pró atividade nos projetos 
+- Encontre possíveis soluções
+- Se está tentando algo novo, esgote as possibilidades antes de solicitar ajuda.
 
 Isso não significa que você está sozinho, quando realmente não for possível, estaremos junto para te ajudar a resolver o problema.
-
 Lembre-se: sem esforço não há aquisição de conhecimento.
 
 ### Conta no [github](https://github.com/), [gitlab](https://gitlab.com/) ou [bitbucket](https://bitbucket.org/)
