@@ -17,8 +17,8 @@ A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tec
 
 # O que precisamos
 
-Buscamos um profissional que teve contato com as tecnologias acima descritas.
-Entretanto sabemos que profissionais que utilizam [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
+Buscamos profissionais que possuem conhecimento nas tecnologias acima descritas.
+Entretanto, sabemos que profissionais que utilizam [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) conseguem adquirir este conhecimento rapidamente.
 
 ## Requisitos
 
