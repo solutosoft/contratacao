@@ -2,14 +2,14 @@
 
 A SLTO Sistemas é uma startup que desenvolve aplicativos móveis e soluções web.
 
-A empresa está iniciando um projeto novo onde serão utilizadas a seguintes tecnologias:
+A empresa está iniciando um projeto onde serão utilizadas a seguintes tecnologias:
 
 - [Typescript](https://www.typescriptlang.org/) :heart_eyes:
+- [TypeORM](https://typeorm.io/)
 - [Jest](https://jestjs.io/)
 - [Vue 3](https://v3.vuejs.org/) - [compositions](https://v3.vuejs.org/api/composition-api.html)
 - [Firebase](https://firebase.google.com/)
   - [Authentication](https://firebase.google.com/docs/auth)
-  - [Firestore](https://firebase.google.com/docs/firestore)
   - [Functions](https://firebase.google.com/docs/functions)
 - [Redoc](https://github.com/Redocly/redoc)
 - [Express](http://expressjs.com/)
@@ -41,7 +41,7 @@ A codificação deve começar pelos testes, e tentar cobrir todo o código produ
 
 ### Código de qualidade
 
-O [ESLint](https://eslint.org/) está habilitado para forçar a padronização, entretanto, além de um código que respeite essa padronização é necessário ser **LIMPO** e **EFICIÊNTE**.
+O [ESLint](https://eslint.org/) está habilitado para forçar a padronização, entretanto, além de um código padronizado é necessário ser **LIMPO** e **EFICIÊNTE**.
 
 O mínimo de código deve ser produzido para resolver um problema.
 
